@@ -1,0 +1,14 @@
+{
+    "appName": "Breeding ticks",
+    "description": "Notifies you when a POF/ROOT breeding tick is about to occur",
+    "appUrl": "http://localhost:5000/",
+    "configUrl": "http://localhost:5000/appconfig.json",
+    "iconUrl": "http://localhost:5000/favicon.png",
+    "defaultWidth": 330,
+    "defaultHeight": 350,
+    "minWidth": 340,
+    "minHeight": 108,
+    "requestHandlers": [],
+    "activators": [],
+    "permissions": "pixel,gamestate,overlay"
+}
